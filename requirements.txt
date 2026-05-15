@@ -1,0 +1,12 @@
+certifi
+ctransformers
+faster-whisper
+numpy
+psutil
+pyobjc-core
+pyobjc-framework-Cocoa
+pyobjc-framework-CoreLocation
+scipy
+sounddevice
+transformers
+webrtcvad
